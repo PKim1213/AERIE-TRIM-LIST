@@ -1,0 +1,7 @@
+1. Python 3.10 이상 설치
+2. 이 폴더에서 명령 프롬프트 실행
+3. pip install -r requirements.txt
+4. streamlit run app.py
+5. 열린 브라우저에서 PDF와 기준 Excel, 과거 TRIM LIST를 업로드
+
+주의: 1차 시제품입니다. 기존 템플릿 행을 보존하며 과거 발주서에서 컬러코드와 TRIM YY를 추천합니다. 신규 BOM 행 자동 삽입, 모든 컬러/품목 완전 매핑, 최신 버전 확인은 아직 지원하지 않습니다. 결과는 반드시 검토 후 발주하세요.
